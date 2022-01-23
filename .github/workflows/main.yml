@@ -28,5 +28,3 @@ jobs:
           tags: |
             gfagundes/rotten-potatoes:latest
             gfagundes/rotten-potatoes:${{ github.run_number }}
-
-53:42
